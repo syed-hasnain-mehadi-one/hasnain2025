@@ -11,11 +11,26 @@
 
 ### Software developer
 
-Tech stack 
+Tool & Technologies
 
 ```sh
 JavaScript
 TypeScript
 React
 React Native
+Redux
+Socket IO
+GatsbyJS
+```
+
+```sh
+HTML
+CSS
+```
+
+```sh
+Node
+Express
+mongoDB
+Strapi
 ```
