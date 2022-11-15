@@ -6,3 +6,16 @@
 | LinkedIn | https://www.linkedin.com/in/syed-hasnain-mehadi-b94971188 |
 | Email | Mehadi.2025@gmail.com |
 | Twitter | https://twitter.com/SyedHMRizvi |
+
+## About
+
+### Software developer
+
+Tech stack 
+
+```sh
+JavaScript
+TypeScript
+React
+React Native
+```
