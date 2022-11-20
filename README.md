@@ -21,14 +21,10 @@ React Native
 Redux
 Socket IO
 GatsbyJS
-```
 
-```sh
 HTML
 CSS
-```
 
-```sh
 Node
 Express
 mongoDB
